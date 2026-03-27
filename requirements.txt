@@ -4,3 +4,6 @@ geopandas
 geopy
 numpy
 pyogrio
+streamlit
+pandas
+plotly
