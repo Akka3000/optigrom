@@ -1,6 +1,6 @@
-streamlit
-pandas
-numpy
 pulp
-plotly
+matplotlib
+geopandas
 geopy
+numpy
+pyogrio
